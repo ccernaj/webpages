@@ -1,0 +1,23 @@
+/*
+ *Name: Carlos Cernajeronimo
+ *UnityID: ccernaj
+ *Date: 28/09/2018
+ *Assignment: webpagesGL.css
+ *Description: webpages
+ */
+ 
+p {
+font-family:Times ;
+font-size: 16px;
+color: #FFFFFF;
+}
+
+#photo-resize {
+   max-width: 250px ;
+   max-height:300px ;
+}
+
+.table-border {
+  border: 1px solid #FFFFFF ;
+}
+
